@@ -1,0 +1,30 @@
+//Insert Method - POST
+localhost:3000/api/insert
+
+//Show all Method - GET
+localhost:3000/api/show/all
+
+
+//Get by ID Method - GET
+localhost:3000/api/show/id/:id
+
+//Get by Name Method - GET
+localhost:3000/api/show/name/:name
+
+//Get by center Method - GET
+localhost:3000/api/show/center/:center"
+
+//Get by semester Method - GET
+localhost:3000/api/show/semester/:semester
+
+//Get by gpa Method - GET
+localhost:3000/api/show/cgpa/:gpa
+
+//Update by SID Method - PUT
+localhost:3000/api/update/id/:id
+
+//Delete by SID Method - DELETE
+localhost:3000/api/delete/id/:id
+
+//Delete by email Method - DELETE
+localhost:3000/api/delete/email/:email
